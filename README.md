@@ -1,4 +1,5 @@
 # スコアさめがめ
   
 さめがめ的なゲーム  
-enchant.js
+使用ライブラリ：enchant.js  
+http://gametuku.com/
